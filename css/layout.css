@@ -1,0 +1,39 @@
+header{
+    background-image: url("../images/background.JPG");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.container{
+    width: 1200px;
+    margin: 0,auto;
+}
+
+.header-top{
+    background-color: black;
+    padding-top: 26px;
+    padding-bottom: 16px;
+    color: #b0b0b0;
+}
+.header-top .header-top-left{
+    float: left;
+    
+}
+
+.header-top .header-top-left ul li{
+    list-style: none;
+    display: inline-block;
+
+}
+
+.header-top .header-top-right {
+    float: right;
+}
+.header-top .header-top-right ul li{
+    list-style: none;
+    display: inline-block;
+}
+.header-middle{
+    background: url("../images/repeatebackground.JPG") repeat-x #76C7C1 left bottom;
+    
+}
